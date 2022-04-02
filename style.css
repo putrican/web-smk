@@ -1,0 +1,18 @@
+body{
+    color: black;
+    background-color: darkseagreen;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+.dropdown:hover .dropdown-menu {
+    display: block;
+    margin-top: 0; 
+ }
+.footer li{
+    list-style: none;
+    display: inline-block;
+    padding: 5px;
+}
+.blockquote-footer{
+    color: black;
+}
